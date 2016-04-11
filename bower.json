@@ -18,6 +18,6 @@
     "tests"
   ],
   "devDependencies": {
-    "pixi.js": "~3.0.11"
+    "pixi.js": "~2.2.9"
   }
 }

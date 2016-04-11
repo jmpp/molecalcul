@@ -1,0 +1,25 @@
+{
+  "name": "gameweek-2016",
+  "version": "1.0.0",
+  "description": "Playing with PIXI.js v3 WebGL filters",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmpp/pixijs3-filters.git"
+  },
+  "author": "JM Cléry <jmclery@gmail.com> (http://jmpp.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmpp/pixijs3-filters/issues"
+  },
+  "homepage": "https://github.com/jmpp/pixijs3-filters#readme",
+  "dependencies": {
+    "phaser": "^2.4.6"
+  }
+}
