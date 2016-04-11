@@ -1,10 +1,10 @@
 {
-  "name": "shaders",
+  "name": "Molecalcul",
   "version": "0.0.0",
   "authors": [
     "JM Clery <jmclery@gmail.com>"
   ],
-  "description": "",
+  "description": "Jeu de calcul avec des molécules",
   "main": "",
   "moduleType": [],
   "license": "MIT",
@@ -17,7 +17,5 @@
     "test",
     "tests"
   ],
-  "devDependencies": {
-    "pixi.js": "~2.2.9"
-  }
+  "devDependencies": {}
 }

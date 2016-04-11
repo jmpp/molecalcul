@@ -1,7 +1,7 @@
 {
-  "name": "gameweek-2016",
-  "version": "1.0.0",
-  "description": "Playing with PIXI.js v3 WebGL filters",
+  "name": "Molecalcul",
+  "version": "0.0.0",
+  "description": "Jeu de calcul avec des molécules",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jmpp/pixijs3-filters.git"
+    "url": "git+https://github.com/jmpp/molecalcul.git"
   },
   "author": "JM Cléry <jmclery@gmail.com> (http://jmpp.io)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jmpp/pixijs3-filters/issues"
+    "url": "https://github.com/jmpp/molecalcul/issues"
   },
-  "homepage": "https://github.com/jmpp/pixijs3-filters#readme",
+  "homepage": "https://github.com/jmpp/molecalcul#readme",
   "dependencies": {
     "phaser": "^2.4.6"
   }
