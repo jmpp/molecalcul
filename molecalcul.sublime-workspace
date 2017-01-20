@@ -1,0 +1,1540 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bg",
+				"bg	background: #${1:000};"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"image",
+				"imagePath"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"paddn",
+				"padding-top"
+			],
+			[
+				"argumen",
+				"arguments"
+			],
+			[
+				"wi",
+				"max-width"
+			],
+			[
+				"tabl",
+				"table-layout"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"width",
+				"min-width"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"data-accele",
+				"data-accelerometer-disabled"
+			],
+			[
+				"vert",
+				"vertFonce"
+			],
+			[
+				"vertical-",
+				"vertical-align"
+			],
+			[
+				"nor",
+				"nowrap"
+			],
+			[
+				"il",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"list-sty",
+				"list-style-position"
+			],
+			[
+				"list-st",
+				"list-style-position"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"background-",
+				"background-position"
+			],
+			[
+				"backgrou",
+				"background-repeat"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"ene",
+				"enemies"
+			],
+			[
+				"sped",
+				"speedY"
+			],
+			[
+				"look",
+				"lookAt"
+			],
+			[
+				"ENE",
+				"ENEMY_MAX_SPEED"
+			],
+			[
+				"speed",
+				"speedY"
+			],
+			[
+				"map",
+				"mapAreas"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"virus",
+				"virusesManager"
+			],
+			[
+				"ly",
+				"draggingLymphocyte"
+			],
+			[
+				"lympho",
+				"lymphocytes"
+			],
+			[
+				"lymphoc",
+				"lymphocytesManager"
+			],
+			[
+				"l",
+				"lymphocytes"
+			],
+			[
+				"get",
+				"getMouseMove"
+			],
+			[
+				"cl",
+				"clientY"
+			],
+			[
+				"s",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"lym",
+				"lymphocytesManager"
+			],
+			[
+				"cell",
+				"cellWidth"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ac",
+				"actives_propositions"
+			],
+			[
+				"Ann",
+				"Annonces"
+			],
+			[
+				"un",
+				"unconfirmed"
+			],
+			[
+				"code",
+				"codehash"
+			],
+			[
+				"ctype",
+				"ctype_digit"
+			],
+			[
+				"pay",
+				"payment_type_cb"
+			],
+			[
+				"form",
+				"form-cic"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"_",
+				"_error"
+			],
+			[
+				"exp",
+				"expected_total"
+			],
+			[
+				"app",
+				"apply_code"
+			],
+			[
+				"PHP",
+				"PHP_EOL"
+			],
+			[
+				"log",
+				"logError"
+			],
+			[
+				"bind",
+				"bindValue"
+			],
+			[
+				"trans",
+				"transaction_id"
+			],
+			[
+				"tran",
+				"transaction_id"
+			],
+			[
+				"ob_",
+				"ob_start"
+			],
+			[
+				"PAY",
+				"PAYPAL_SSL_URL_SANDBOX"
+			],
+			[
+				"rece",
+				"receiver_email"
+			],
+			[
+				"ob_get",
+				"ob_get_contents"
+			],
+			[
+				"ro",
+				"rowCount"
+			],
+			[
+				"M",
+				"Membres"
+			],
+			[
+				"in",
+				"inactifs"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"session_re",
+				"session_regenerate_id"
+			],
+			[
+				"ami",
+				"amidami"
+			],
+			[
+				"ca",
+				"canDelete"
+			],
+			[
+				"la",
+				"label-success"
+			],
+			[
+				"abon",
+				"abonnement"
+			],
+			[
+				"ab",
+				"abonnement"
+			],
+			[
+				"abonn",
+				"abonnementid"
+			],
+			[
+				"err",
+				"_error_message"
+			],
+			[
+				"_erro",
+				"_error_message"
+			],
+			[
+				"mem",
+				"membre_fbuid_1"
+			],
+			[
+				"frien",
+				"friend_ids"
+			],
+			[
+				"fri",
+				"friends"
+			],
+			[
+				"fr",
+				"friend_ids"
+			],
+			[
+				"fbui",
+				"fbuid"
+			],
+			[
+				"a",
+				"annonces"
+			],
+			[
+				"annonce",
+				"annonce_id"
+			],
+			[
+				"fav",
+				"favlink"
+			],
+			[
+				"favo",
+				"favorited"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"type",
+				"type_remise"
+			],
+			[
+				"ra",
+				"rapporteurs"
+			],
+			[
+				"membre",
+				"membres_signales"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"si",
+				"signale"
+			],
+			[
+				"se",
+				"membre_sexe"
+			],
+			[
+				"f_annon",
+				"f_annonce_membre"
+			],
+			[
+				"ME",
+				"MEMBRES"
+			],
+			[
+				"pho",
+				"photos_annonce"
+			],
+			[
+				"sendMe",
+				"sendMessageLink"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"feed",
+				"feed_name"
+			],
+			[
+				"ph",
+				"photosData"
+			],
+			[
+				"fb",
+				"fbAsyncInitialized"
+			],
+			[
+				"annon",
+				"annonce_membre"
+			],
+			[
+				"anno",
+				"annonce_membre"
+			],
+			[
+				"friend",
+				"friend_of_friend"
+			],
+			[
+				"frie",
+				"friends_of_friends"
+			],
+			[
+				"fbuid",
+				"fbuid_friend"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"memb",
+				"membre_fbuid_2"
+			],
+			[
+				"membre_",
+				"membre_fbuid_1"
+			],
+			[
+				"MEMBRE",
+				"MEMBRES"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 789,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/index.js",
+			"settings":
+			{
+				"buffer_size": 3878,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/config.js",
+			"settings":
+			{
+				"buffer_size": 350,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/player.js",
+			"settings":
+			{
+				"buffer_size": 7496,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/utils.js",
+			"settings":
+			{
+				"buffer_size": 1117,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/level.js",
+			"settings":
+			{
+				"buffer_size": 7621,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/decor.js",
+			"settings":
+			{
+				"buffer_size": 4741,
+				"line_ending": "Unix",
+				"name": "(function(app) {"
+			}
+		},
+		{
+			"file": "scripts/UI.js",
+			"settings":
+			{
+				"buffer_size": 714,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Chromium.sublime-build",
+	"command_palette":
+	{
+		"height": 315.0,
+		"selected_items":
+		[
+			[
+				"java",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"JAVA",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"asp",
+				"Set Syntax: ASP"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"php",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"stylus",
+				"Set Syntax: Stylus"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"mard",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mardk",
+				"MarkdownEditing: Markdown Lint"
+			],
+			[
+				"mardown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mardo",
+				"MarkdownEditing: Markdown Lint"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"apa",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"set syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"txt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"isnt",
+				"Snippet: Snippet: NodeJS EventEmitter"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"Package Control: ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 342.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/dev/events/LEM-gameweek/2016/jeux/Cello/js/play.js",
+		"/C/dev/events/LEM-gameweek/2016/jeux/Cello/js/game.js",
+		"/C/dev/events/LEM-gameweek/2016/jeux/Cello/js/load.js",
+		"/C/dev/events/LEM-gameweek/2016/jeux/Cello/js/player.js",
+		"/C/dev/events/LEM-gameweek/2016/jeux/Cello/js/menu.js",
+		"/C/dev/events/LEM-gameweek/2016/jeux/Cello/index.html",
+		"/C/dev/events/LEM-gameweek/2016/jeux/Cello/js/boot.js",
+		"/C/dev/events/LEM-gameweek/2016/jeux/Cello/js/container.js",
+		"/C/dev/games/gameweek-2016/plugins/ParticleStorm.min.js",
+		"/E/molecalcul/scripts/utils.js",
+		"/C/dev/games/gameweek-2016/node_modules/phaser/filters/pixi/DisplacementFilter.js",
+		"/C/dev/games/gameweek-2016/node_modules/phaser/filters/ColorBars.js",
+		"/C/dev/games/gameweek-2016/scripts/utils.js",
+		"/C/dev/games/gameweek-2016/scripts/config.js",
+		"/C/dev/games/gameweek-2016/scripts/game.js",
+		"/C/dev/games/gameweek-2016/scripts/background.js",
+		"/C/dev/games/gameweek-2016/scripts/renderer.js",
+		"/C/dev/games/gameweek-2016/package.json",
+		"/C/dev/games/gameweek-2016/bower.json",
+		"/C/dev/games/gameweek-2016/.gitignore",
+		"/C/dev/games/gameweek-2016/scripts/app.js",
+		"/C/dev/games/gameweek-2016/app.js",
+		"/C/dev/games/gameweek-2016/scripts/renderer.png",
+		"/C/dev/games/gameweek-2016/docs/pixi.js-2.2.9/src/pixi/extras/TilingSprite.js",
+		"/C/dev/games/gameweek-2016/scripts/canvas.js",
+		"/C/dev/games/gameweek-2016/scripts/test.es5.js",
+		"/C/dev/games/gameweek-2016/scripts/test.js",
+		"/C/dev/games/gameweek-2016/scripts/main.js",
+		"/C/dev/games/gameweek-2016/index.html",
+		"/C/dev/games/gameweek-2016/test.es5.js",
+		"/C/Users/jmpp/Desktop/test/index.html",
+		"/C/Users/jmpp/Desktop/pad/pad.js",
+		"/C/Users/jmpp/Desktop/pad/index.html",
+		"/C/dev/games/gameweek-2016/build/main.js",
+		"/C/dev/canvas.html",
+		"/C/dev/canvas2.html",
+		"/C/dev/events/LEM-gameweek/2016/liste groupes + projets",
+		"/C/dev/events/LEM-gameweek/2016/brief réunion.md",
+		"/C/dev/slides/gameweek/2015/index.html",
+		"/C/dev/slides/gameweek/2016/index.html",
+		"/C/dev/slides/gameweek/2016/plugin/gamepad/better.gamepad.js",
+		"/C/dev/slides/gameweek/2015/plugin/gamepad/better.gamepad.js",
+		"/C/wamp/www/projects/TeamAdvance/wordpress/wp-content/themes/twentysixteen/header.php",
+		"/C/wamp/www/projects/TeamAdvance/wordpress/wp-config-sample.php",
+		"/C/wamp/www/projects/TeamAdvance/wordpress/wp-content/themes/twentysixteen/style.css",
+		"/C/wamp/www/projects/TeamAdvance/laravel/app/views/cours.blade.php",
+		"/C/wamp/www/projects/TeamAdvance/laravel/app/config/database.php",
+		"/C/wamp/www/projects/TeamAdvance/wordpress/.htaccess",
+		"/C/wamp/www/projects/TeamAdvance/wordpress/php.ini",
+		"/C/wamp/www/projects/TeamAdvance/wordpress/wp-config.php",
+		"/C/wamp/www/projects/TeamAdvance/wordpress/phpinfo.php",
+		"/C/Users/jmpp/AppData/Local/Temp/fz3temp-1/.htaccess 3",
+		"/C/wamp/www/projects/TeamAdvance/dump_teamadvance_wordpress_30-03-2016.sql",
+		"/C/Users/jmpp/AppData/Local/Temp/fz3temp-1/.htaccess 2",
+		"/C/Users/jmpp/AppData/Local/Temp/fz3temp-1/access.log.13.3",
+		"/C/Users/jmpp/AppData/Local/Temp/fz3temp-1/ftp.log",
+		"/C/Users/jmpp/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/wamp/www/projects/TeamAdvance/wordpress/wp-config-local.php",
+		"/C/wamp/www/projects/TeamAdvance/laravel/public/css/fonts.less",
+		"/C/wamp/www/Node-Attitude/day3/day3-code/webapp/package.json",
+		"/C/wamp/www/Node-Attitude/day3/day3-code/webapp/models/entry.js",
+		"/C/wamp/www/Node-Attitude/_NOTES.txt",
+		"/C/wamp/www/Node-Attitude/day3/day3-code/TODO.txt",
+		"/C/wamp/www/projects/TeamAdvance/wordpress/wp-content/plugins/wp-google-maps/wpGoogleMaps.php",
+		"/C/wamp/www/projects/TeamAdvance/wordpress/wp-content/themes/twentysixteen/js/html5.js",
+		"/C/wamp/www/projects/TeamAdvance/wordpress/wp-content/themes/twentysixteen/archive.php",
+		"/C/dev/projects/StudioFrance/HetN/www/package.json",
+		"/C/dev/projects/StudioFrance/HetN/www/index.html",
+		"/C/dev/projects/StudioFrance/HetN/www/css/vendor/bootstrap.min.css",
+		"/C/dev/projects/StudioFrance/HetN/www/css/vendor/bootstrap.css",
+		"/C/dev/projects/StudioFrance/HetN/www/css/vendor/bootstrap-theme.css",
+		"/C/dev/projects/StudioFrance/HetN/www/css/vendor/bootstrap-theme.min.css",
+		"/C/dev/projects/StudioFrance/HetN/www/css/vendor/animate.css",
+		"/C/dev/projects/StudioFrance/HetN/www/.gitignore",
+		"/C/dev/projects/StudioFrance/HetN/www/js/customSlider.js",
+		"/C/dev/projects/StudioFrance/HetN/www/js/slider.js",
+		"/C/dev/projects/StudioFrance/HetN/www/css/main.css",
+		"/C/dev/projects/StudioFrance/HetN/www/css/bootstrap.css",
+		"/C/dev/projects/StudioFrance/H&N/www/index.html",
+		"/C/dev/projects/perrier-game/www/templates/error-mobile.phtml",
+		"/C/dev/projects/perrier-game/www/templates/error-desktop.phtml",
+		"/C/dev/projects/perrier-game/www/www/styles/index.styl",
+		"/C/dev/projects/perrier-game/www/templates/email.phtml",
+		"/C/dev/projects/perrier-game/www/www/scripts/game/functions.js",
+		"/C/dev/projects/perrier-game/www/www/scripts/error-mobile.js",
+		"/C/dev/courses/LEM/mob2/angular/firetchat/scripts/app.js",
+		"/C/dev/courses/LEM/mob2/angular/firetchat/scripts/home.controller.js",
+		"/C/dev/courses/LEM/mob2/angular/firetchat/scripts/tchat.controller.js",
+		"/C/dev/projects/perrier-game/www/www/dist/bundle.min.js",
+		"/C/dev/projects/perrier-game/www/data/migrations/20160301-001.sql",
+		"/C/Users/jmpp/AppData/Roaming/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/C/dev/projects/perrier-game/www/templates/email.phtml.backup",
+		"/C/dev/projects/perrier-game/www/config/settings.local.php",
+		"/C/Users/jmpp/AppData/Roaming/Sublime Text 2/Packages/Emmet/emmet/snippets.json",
+		"/C/dev/projects/perrier-game/www/templates/email.phtml.old",
+		"/C/dev/projects/perrier-game/www/templates/email.mjml",
+		"/C/dev/projects/perrier-game/www/package.json",
+		"/C/Users/jmpp/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/dev/projects/perrier-game/www/templates/email.html",
+		"/C/dev/projects/perrier-game/www/src/Service/Mail.php",
+		"/C/dev/projects/perrier-game/www/vendor/mandrill/mandrill/src/Mandrill.php",
+		"/C/dev/projects/perrier-game/www/www/scripts/game/UI.js",
+		"/C/dev/projects/perrier-game/www/www/scripts/game/inputs.js",
+		"/C/dev/projects/perrier-game/www/www/scripts/game/Bubbles.js",
+		"/C/dev/projects/perrier-game/www/www/scripts/game/Game.js",
+		"/C/dev/projects/perrier-game/www/www/scripts/game/app.js",
+		"/C/dev/projects/perrier-game/www/www/scripts/game/Player.js",
+		"/C/dev/projects/perrier-game/www/www/styles/_desktop.styl",
+		"/C/dev/projects/perrier-game/www/www/scripts/app.js",
+		"/C/dev/projects/perrier-game/www/templates/game.phtml",
+		"/C/dev/projects/perrier-game/www/www/scripts/game/IIG.js",
+		"/C/dev/projects/perrier-game/www/www/styles/_mediasqueries.styl",
+		"/C/dev/projects/perrier-game/www/www/styles/_fonts.styl",
+		"/C/dev/projects/perrier-game/www/composer.json",
+		"/C/dev/projects/perrier-game/www/www/dist/fonts/Sen_Bold/stylesheet.css",
+		"/C/dev/projects/perrier-game/www/www/dist/fonts/Sen_Regular/stylesheet.css",
+		"/C/dev/projects/perrier-game/www/www/dist/fonts/MFLiHei_Noncommercial-Regular/stylesheet.css",
+		"/C/dev/projects/perrier-game/www/www/dist/fonts/cuprum-bold-webfont/stylesheet.css",
+		"/C/dev/projects/perrier-game/www/www/dist/fonts/robotoslab-light-webfont/stylesheet.css",
+		"/C/dev/projects/perrier-game/www/www/dist/fonts/MDmorris2_12/styles.css",
+		"/C/dev/projects/perrier-game/www/www/dist/fonts/MDmorris2_10/styles.css",
+		"/C/dev/projects/perrier-game/www/www/dist/fonts/PFDINTextCompProWeb_Bold/PFDINTextCompPro-Bold.css",
+		"/C/dev/projects/perrier-game/www/www/dist/fonts/PFDINTextCompProWeb_Reg/PFDINTextCompPro-Regular.css",
+		"/C/dev/projects/perrier-game/www/www/styles/_functions.styl",
+		"/C/dev/projects/perrier-game/www/www/scripts/game/Obstacles.js",
+		"/C/dev/projects/perrier-game/www/gulpfile.js",
+		"/C/dev/projects/perrier-game/www/www/scripts/vendor/modernizr-3.3.1.min.js",
+		"/C/dev/projects/perrier-game/www/www/scripts/game/Backgrounds.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\dev\\projects\\perrier-game\\www\\",
+			"C:\\dev\\projects\\perrier-game\\www\\www\\",
+			"C:\\dev\\projects\\perrier-game\\www\\www\\styles\\",
+			"C:\\dev\\projects\\perrier-game\\www\\www\\styles\\*.styl",
+			"C:\\dev\\projects\\perrier-game\\www\\www\\scripts\\*.styl",
+			"C:\\dev\\projects\\perrier-game\\www\\www\\scripts",
+			"C:\\dev\\projects\\perrier-game\\www\\www\\s",
+			"C:\\dev\\projects\\perrier-game\\www\\www\\scripts",
+			"C:\\dev\\projects\\perrier-game\\www\\www\\scripts\\game",
+			"<open folders>",
+			"C:\\wamp\\www\\TeamAdvance\\laravel\\forum\\",
+			"C:\\wamp\\www\\TeamAdvance\\laravel\\forum\\core",
+			"C:\\wamp\\www\\TeamAdvance\\laravel\\forum\\core\\",
+			"C:\\wamp\\www\\TeamAdvance\\laravel\\forum\\core\\views",
+			"C:\\wamp\\www\\TeamAdvance\\laravel\\forum\\core",
+			"C:\\wamp\\www\\TeamAdvance\\laravel\\forum\\core\\js",
+			"C:\\wamp\\www\\TeamAdvance\\laravel\\forum\\*.js",
+			"C:\\wamp\\www\\TeamAdvance\\laravel\\forum\\",
+			"C:\\wamp\\www\\TeamAdvance\\laravel\\forum\\core",
+			"C:\\wamp\\www\\_cours\\LEM\\web-app\\Yeoman\\dist",
+			"C:\\wamp\\www\\_cours\\LEM\\web-app\\Yeoman",
+			"C:\\wamp\\www\\_cours\\LEM\\web-app\\Yeoman\\webapp",
+			"C:\\wamp\\www\\HTML5GameJam2014\\game\\js",
+			"C:\\wamp\\www\\CLIENTS\\RoomCluster\\SITE",
+			"C:\\wamp\\www\\OnGameAMonth\\1.1\\js",
+			"C:\\wamp\\www\\GlobalGameJam2013",
+			"C:\\wamp\\www\\jmpp.fr\\blog\\wordpress\\",
+			"C:\\wamp\\www\\jmpp.fr\\blog\\wordpress\\*.php",
+			"C:\\wamp\\www\\jmpp.fr\\blog\\wordpress\\wp-content\\themes\\mystique"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cursors",
+			"Gamepad",
+			"player.score",
+			"player.score = 0; // Nombre d'algues passées par le joueur\n\n  // ========\n  // Méthodes publiques\n  // ========\n\n  player.create  = createPlayer;\n  player.update  = updatePlayer;\n  player.render  = renderPlayer;\n\n  // ===\n\n  var particlesManager,\n      particlesEmitter;\n\n  function createPlayer() {\n    \n    // ==========\n    // Particules\n    // ==========\n\n    particlesManager = app.game.plugins.add(Phaser.ParticleStorm);\n    particlesManager.addData('basic', {\n      lifespan: 500,\n      image: 'particle',\n      vy: { min: 1, max: 5 },\n      alpha: { initial: 0, value: 1, control: [ { x: 0, y: 1 }, { x: 1, y: 0 } ] }\n    });\n    // Création d'un emitter\n    particlesEmitter     = particlesManager.createEmitter();\n    player.particlesZone = particlesManager.createCircleZone(app.game.cache.getImage('joueur_spritesheet').height / 2.5);\n    particlesEmitter.addToWorld();\n    particlesEmitter.emit('basic', 0, 0, { zone: player.particlesZone, total: 1, repeat: -1, frequency: 1 });\n\n    // ======\n    // Joueur\n    // ======\n\n    player.sprite = app.game.add.sprite(\n      app.game.camera.width/4,\n      app.game.world.centerY,\n      'joueur_spritesheet'\n    );\n    player.sprite.anchor.set(0.5);\n\n    // Animation du joueur\n    player.sprite.animations.add('live');\n    player.sprite.animations.play('live', 18, true);\n\n    // Liste des opérations effectuées par le joueur\n    player.op     = '+';\n    player.number = {\n      list : [0],\n      // Getter\n      get : function getNumberFromList() {\n        player.op = '+';\n        return this.list\n                    .reduce(function(total, el) {\n                      if (isNaN(parseInt(el, 10))) {\n                        player.op = el;\n                        return total;\n                      }\n                      return app.utils.calculator(player.op)(total, parseInt(el, 10))\n                    });\n                    // .filter((el) => !isNaN(parseInt(el,10)))\n                    // .map(Number)\n                    // .reduce((acc, nb) => acc + nb, 0);\n      }\n    };\n\n    // Texte accompagnant le joueur\n    player.text = new Phaser.Text(app.game, 0, 0, '', {fill:'#000',font:'3rem \"Fredoka One\"',stroke:'#ccc',strokeThickness:3});\n    app.game.world.add(player.text);\n\n    // Démarrage de la physX sur le joueur\n    app.game.physics.arcade.enable(player.sprite);\n    // Vitesse max de déplacement du joueur\n    player.sprite.body.maxVelocity.set(player.maxSpeeds.movement);\n    // Collision avec les bords du monde (pour ne pas sortir de la caméra)\n    player.sprite.body.collideWorldBounds = true;\n    // Redéfinition du body\n    player.sprite.body.setSize(\n      player.sprite.width * 0.5,\n      player.sprite.height * 0.5\n    );\n  }\n\n  function updatePlayer() {\n    // Gestion du déplacement du joueur\n    movePlayer();\n\n    // Déplacement des particles en fonction de la position du joueur\n    player.particlesZone.shape.x = player.sprite.x;\n    player.particlesZone.shape.y = player.sprite.y;\n\n    // Maj du texte accompagnant le joueur\n    player.text.setText(player.number.get() + player.op);\n    player.text.x = player.sprite.x - player.text.width * 0.5;\n    player.text.y = player.sprite.y - player.text.height * 0.5;\n\n    // Collision entre le joueur et les cellules du niveau\n    app.game.physics.arcade.overlap(player.sprite, app.level.cells, collidePlayerCell, null, this);\n\n    // Collision entre le joueur et les algues\n    app.game.physics.arcade.collide(player.sprite, app.level.obstacles, collidePlayerObstacle, null, this);\n  }\n\n  function renderPlayer() {\n    if (!app.config.DEBUG)\n      return;\n\n    // Debug\n    app.game.debug.body(player.sprite);\n  }\n\n  function movePlayer() {\n\n    // Application du mouvement\n    if (app.keys.up.isDown) { // HAUT\n      player.sprite.body.velocity.y += -1 * player.speeds.movement;\n    }\n    if (app.keys.down.isDown) { // BAS\n      player.sprite.body.velocity.y += player.speeds.movement;\n    }\n    if (app.keys.left.isDown) { // GAUCHE\n      player.sprite.body.velocity.x += -1 * player.speeds.movement;\n      player.rotationVelocity += -1 * player.speeds.rotation; // Augmentation progressive de la rotation vers la gauche\n    }\n    if (app.keys.right.isDown) { // DROITE\n      player.sprite.body.velocity.x += player.speeds.movement;\n      player.rotationVelocity += player.speeds.rotation; // Augmentation progressive de la rotation vers la droite\n    }\n    // Application exponentielle de la rotation (+=)\n    player.sprite.body.rotation += player.rotationVelocity;\n\n\n    // Bridage de la vitesse maximale de déplacement\n    /*if (player.sprite.body.velocity.x > player.maxSpeeds.movement)\n      player.sprite.body.velocity.x = player.maxSpeeds.movement;\n    else if (player.sprite.body.velocity.x < -1 * player.maxSpeeds.movement)\n      player.sprite.body.velocity.x = -1 * player.maxSpeeds.movement;\n    if (player.sprite.body.velocity.y > player.maxSpeeds.movement)\n      player.sprite.body.velocity.y = player.maxSpeeds.movement;\n    else if (player.sprite.body.velocity.y < -1 * player.maxSpeeds.movement)\n      player.sprite.body.velocity.y = -1 * player.maxSpeeds.movement;*/\n    // Bridage de la vitesse maximale de rotation\n    /*if (player.rotationVelocity > player.maxSpeeds.rotation)\n      player.rotationVelocity = player.maxSpeeds.rotation;\n    else if (player.rotationVelocity < -1 * player.maxSpeeds.rotation)\n      player.rotationVelocity = -1 * player.maxSpeeds.rotation;*/\n\n\n    /*if (!app.keys.up.isDown && !app.keys.down.isDown && !app.keys.left.isDown && !app.keys.right.isDown) {\n      // Ralentissement progressif de la vitesse de déplacement\n      player.sprite.body.velocity.x = app.utils.slowDown(player.sprite.body.velocity.x, 1); // Ralentissement de 1 par frame\n      player.sprite.body.velocity.y = app.utils.slowDown(player.sprite.body.velocity.y, 1); // Ralentissement de 1 par frame\n      // Ralentissement progressif de la vitesse de rotation\n      player.rotationVelocity = app.utils.slowDown(player.rotationVelocity, 0.00025); // Ralentissement de 0.00025 par frame\n    }*/\n  }\n\n  // Collision Handler entre le joueur et les cellules\n  function collidePlayerCell(player, cell) {\n    app.sounds.pickup.play();\n    var nb = parseInt(cell.children[0].text, 10);\n    nb = nb || cell.children[0].text;\n    app.player.number.list.push(nb);\n    cell.kill();\n  }\n\n  // Collision Handler entre le joueur et les obstacles algues\n  function collidePlayerObstacle(player, algue) {\n    var nb = parseInt(algue.children[0].text, 10);\n    nb = !isNaN(nb) ? nb : algue.children[0].text;\n\n    if (nb === app.player.number.get()) {\n      // Passage d'une algue ! #OhYeah\n      algue.kill();\n      player.score++;\n\n      console.log(player.score, app.level.pointsToWin);\n      if (player.score",
+			"player.score",
+			"player.points",
+			"points",
+			"lvl",
+			"var",
+			"pickup",
+			"game",
+			"app.config.debug",
+			"debug",
+			"WIDTH",
+			"config.GAME_HEIGHT",
+			"config.GAME_WIDTH * 3",
+			"app.state",
+			"path",
+			"PATH",
+			"path",
+			"à",
+			"cell",
+			"collisionHandler",
+			"setAll",
+			"calculator",
+			"/3",
+			"algue_spritesheet",
+			"cell",
+			"cells",
+			"algue_spritesheet",
+			"readLevel",
+			"8",
+			"molecule_spritesheet",
+			"~    ",
+			"itemsGroup",
+			"CollisionGroup",
+			"collisionGroup",
+			"~ ",
+			"slowDown",
+			"nb",
+			"sprite",
+			"player",
+			"rochers_front",
+			"0.25",
+			"rochers_plan1",
+			"rochers_plan4",
+			"rochers_back",
+			"objs",
+			"items[i].x",
+			"live",
+			"level",
+			"numbers",
+			"level",
+			"lines",
+			"-",
+			" '],",
+			" ",
+			"-",
+			"----------",
+			"player",
+			"Player",
+			"player",
+			"Player",
+			"player",
+			"!app.keys.up.isDown && ",
+			"rochers_back2",
+			"rochers_back",
+			"suite",
+			"update",
+			"decor",
+			"createUI",
+			"decor",
+			"rochers_2",
+			"ondulations",
+			"800",
+			"53",
+			"55",
+			"60",
+			"app.game.add.tileSprite(\n      0,\n      0,\n      app.config.GAME_WIDTH * 3,\n      app.config.GAME_HEIGHT,\n      'undersea_texture'\n    );",
+			"initReflets",
+			"Exports",
+			"300",
+			"player",
+			"Player",
+			"player",
+			"rochers",
+			"fond_marin",
+			"initReflets",
+			"vagues",
+			"game",
+			"app.filter",
+			"=============================\n",
+			"sprite",
+			"this",
+			"config",
+			"mouse",
+			"5",
+			"1.0",
+			"hautGauche",
+			"level[x - 1][y - 1]",
+			"1.0",
+			"this",
+			".x",
+			"player.maxRotationSpeed",
+			"0.005",
+			"8",
+			"player.body",
+			"app.player",
+			"0.05",
+			"app.player",
+			"cursors",
+			"};\n",
+			"slowDown",
+			"body.rotation",
+			"001",
+			"10",
+			"1",
+			"app.player.body.velocity.x",
+			"player",
+			"app.renderer.view.width",
+			"app.renderer.view.",
+			"fromImage",
+			"eauContainer",
+			"this.fondMarin",
+			"app.renderer.view",
+			"this.fondMarin.",
+			"15",
+			"count"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"www.team-advance.com",
+			"this",
+			"dow.innerHeight;\n  // destinationCanvas.width = Math",
+			"$",
+			"\\n",
+			" ",
+			"",
+			"alert('    ",
+			"\\n",
+			"",
+			"</em>",
+			"<em>",
+			"<strong>",
+			");\n",
+			" ",
+			"\n ",
+			"f",
+			"dans une autre langue",
+			"\\n",
+			"",
+			"\">\n",
+			"",
+			"$_\\1",
+			"$vert",
+			"resizeCanvas",
+			"src='lib/box2d/",
+			"this._",
+			"_callback",
+			"_nbImagesLoaded",
+			"_images",
+			"mysql_fetch_array",
+			"'",
+			"<!-- emphase légère -->",
+			"<!-- fin emphase légère -->",
+			"'",
+			"<mark>nullam</mark>",
+			"<mark>nulla</mark>",
+			"<strong>Donec nisi arcu,",
+			"</strong></p>",
+			"'",
+			"",
+			"design",
+			"zoom",
+			"-",
+			"</label></li>",
+			"</li></label>",
+			"<li><label>",
+			"</p>",
+			"<p>",
+			"&lt;",
+			"<mark>nullam</mark>",
+			"<mark>nulla</mark>",
+			"&lt;",
+			"<mark>nulla</mark>",
+			"<mark>nullam</mark>",
+			"&lt;",
+			"  ",
+			"&lt;",
+			"<",
+			"&lt;",
+			"cs",
+			";\n",
+			"- Aucun -",
+			"<option value=\"$1\">$1</option>",
+			".png",
+			"_keyboard.up",
+			"----------------------",
+			"-------------------------------------------------------------",
+			"particles",
+			"",
+			".flip-caption",
+			"flip-author",
+			".flip-author",
+			"figure class=\"flip-container\"",
+			".flip-container",
+			"flip-",
+			"&gt;",
+			"&lt;"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								677,
+								677
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scripts/index.js",
+					"settings":
+					{
+						"buffer_size": 3878,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3120,
+								3066
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "scripts/config.js",
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "scripts/player.js",
+					"settings":
+					{
+						"buffer_size": 7496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "scripts/utils.js",
+					"settings":
+					{
+						"buffer_size": 1117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "scripts/level.js",
+					"settings":
+					{
+						"buffer_size": 7621,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								667,
+								667
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 521.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "scripts/decor.js",
+					"settings":
+					{
+						"buffer_size": 4741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2400,
+								2400
+							]
+						],
+						"settings":
+						{
+							"auto_name": "(function(app) {",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "scripts/UI.js",
+					"settings":
+					{
+						"buffer_size": 714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.404375,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.nodejs":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"time",
+				"/C/wamp/www/OnGameAMonth/1.1/lib/MusicLoader.js"
+			],
+			[
+				"project",
+				"js/Projectile.js"
+			],
+			[
+				"g",
+				"conf/Game.cfg.js"
+			],
+			[
+				"ta",
+				"conf/Tache.cfg.js"
+			],
+			[
+				"projec",
+				"js/Projectile.js"
+			],
+			[
+				"tache",
+				"conf/Tache.cfg.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"game",
+				"js/Game.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 123.0,
+	"status_bar_visible": true
+}

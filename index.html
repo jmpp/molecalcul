@@ -2,17 +2,28 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>PIXI.js Shaders</title>
+	<title>Molecalcul</title>
+  
+  <link href='https://fonts.googleapis.com/css?family=Fredoka+One' rel='stylesheet' type='text/css'>  
+  <style>
+    body { margin:0; background-color: #000; }
+    #game-area { text-align: center; }
+    #game-area > canvas { margin: 0 auto; }
+  </style>
 </head>
 <body>
 
-<script src="bower_components/pixi.js/bin/pixi.js"></script>
+<div id="game-area"></div>
+
+<script src="node_modules/phaser/build/phaser.js"></script>
 
 <script>window.app = {};</script>
 <script src="scripts/config.js"></script>
-<script src="scripts/renderer.js"></script>
-<script src="scripts/background.js"></script>
-<script src="scripts/game.js"></script>
+<script src="scripts/utils.js"></script>
+<script src="scripts/decor.js"></script>
+<script src="scripts/level.js"></script>
+<script src="scripts/player.js"></script>
+<script src="scripts/UI.js"></script>
 <script src="scripts/index.js"></script>
 
 </body>
